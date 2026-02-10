@@ -1,7 +1,7 @@
 # End-to-End Data Engineer Project
 
 <!-- imagem de capa do projeto -->
-![Data Engineer](./db.png)
+![Data Engineer](https://github.com/AtharvaGitProfile/Databricks-ML-Platform/blob/main/DB.png)
 
 # Introduction & Goals
  
