@@ -40,8 +40,6 @@ The pipeline functions as expected, and the results are displayed in the samples
 - [Pipelines](#pipelines)
 - [Demo](#demo)
 - [Conclusion](#conclusion)
-- [Follow Me On](#follow-me-on)
-- [Appendix](#appendix)
 
 # The Data Set
 
@@ -147,11 +145,3 @@ Throughout this project, several learning opportunities and challenges were enco
   - Enable streaming with Spark, utilizing overlapping windows and Kafka;
   - Explore data mesh and data contracts as potential enhancements;
   - Incorporate a paralell MlOps pipeline;
-
-# Let's connect
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/andré-ichiro-82592327) 
-
-# Appendix
-
-Refer to the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for assistance with markdown.
