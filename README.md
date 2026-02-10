@@ -1,7 +1,7 @@
 # End-to-End Data Engineer Project
 
 <!-- imagem de capa do projeto -->
-![Data Engineer](./data_engineer.png#vitrinedev)
+![Data Engineer](./db.png)
 
 # Introduction & Goals
  
