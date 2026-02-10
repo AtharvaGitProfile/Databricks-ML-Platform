@@ -1,4 +1,4 @@
-# End-to-End Data engineer project
+# End-to-End Data Engineer Project
 
 <!-- imagem de capa do projeto -->
 ![Data Engineer](./data_engineer.png#vitrinedev)
