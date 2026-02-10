@@ -144,4 +144,4 @@ Throughout this project, several learning opportunities and challenges were enco
    - Create a Django REST API to enable real-time inference anywhere;
   - Enable streaming with Spark, utilizing overlapping windows and Kafka;
   - Explore data mesh and data contracts as potential enhancements;
-  - Incorporate a paralell MlOps pipeline;
+  - Incorporate a parallel MlOps pipeline;
