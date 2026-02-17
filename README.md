@@ -30,7 +30,7 @@ The pipeline functions as expected, and the results are displayed in the samples
     - samples: provides samples from the aforementioned services; 
     - data: includes video content in different stages (raw, staging, intermediate, and data mart);
 
-<!-- diagrama do pipeline -->
+##Architecture Diagram
 ![Pipeline](./diagram.png)
       
 # Contents
